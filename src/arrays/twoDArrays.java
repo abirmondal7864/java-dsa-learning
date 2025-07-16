@@ -1,4 +1,4 @@
-package arraysStrings;
+package arrays;
 
 public class twoDArrays {
 //    public static void main(String[] args) {

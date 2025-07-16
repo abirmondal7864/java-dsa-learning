@@ -1,4 +1,4 @@
-package arraysStrings;
+package arrays;
 
 class Arrays {
 //    // ARRAYS INTRODUCTION
