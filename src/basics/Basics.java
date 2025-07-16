@@ -1,4 +1,4 @@
-import java.util.*;
+package basics;
 
 public class Basics {
 

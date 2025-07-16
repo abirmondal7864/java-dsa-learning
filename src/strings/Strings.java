@@ -1,3 +1,5 @@
+package strings;
+
 import java.util.*;
 
 public class Strings {
@@ -41,9 +43,9 @@ public class Strings {
 //        //hello < wello
 //        //aahello> aabello
 //        if(name1.compareTo(name2)==0){
-//            System.out.println("Strings are equal");
+//            System.out.println("strings.Strings are equal");
 //        }else {
-//            System.out.println("Strings are not equal");
+//            System.out.println("strings.Strings are not equal");
 //        };
 
 
@@ -60,7 +62,7 @@ public class Strings {
 //        String name3=sentence2.substring(5); //beg index
 //        System.out.println(name3);//Stark
 
-        //Note: Strings are immutable
+        //Note: strings.Strings are immutable
 
 
         //String Builder
@@ -90,7 +92,7 @@ public class Strings {
 
 //        //Append
 
-//        StringBuilder sb= new StringBuilder("H"); //must be " " not ' ' for Strings
+//        StringBuilder sb= new StringBuilder("H"); //must be " " not ' ' for strings.Strings
 //        sb.append('e'); // ' ' for chars
 //        sb.append('l');
 //        sb.append('l');

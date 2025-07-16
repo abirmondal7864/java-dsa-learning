@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package bitManipulation;
 
 public class Bits {
     public static void main(String[]args){

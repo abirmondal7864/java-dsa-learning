@@ -1,4 +1,4 @@
-import java.util.*;
+package arraysStrings;
 
 public class twoDArrays {
 //    public static void main(String[] args) {
