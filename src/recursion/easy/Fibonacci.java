@@ -1,4 +1,4 @@
-package recursion.one;
+package recursion.easy;
 
 public class Fibonacci {
     public static int printFibonacci(int n) {

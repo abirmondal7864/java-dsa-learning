@@ -1,4 +1,4 @@
-package recursion.two;
+package recursion.medium;
 
 public class TOH {
     public static void solveTOH(int n,String source,String  auxiliary,String destination){
